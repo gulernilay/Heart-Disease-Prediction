@@ -1,6 +1,7 @@
 # Heart-Disease-Prediction
 
 Bu proje, Framingham veri seti kullanılarak bireylerin 10 yıl içinde kalp hastalığına yakalanma riskini tahmin etmeye yönelik bir veri analizi ve makine öğrenmesi çalışmasıdır.
+Veri seti Linki :https://www.kaggle.com/datasets/noeyislearning/framingham-heart-study
 
 ## Proje İçeriği
 
